@@ -29,12 +29,15 @@ export const PrevewerAria = styled.div`
   border-radius: 0px;
   padding: 0px 20px 60px;
   background-color: rgb(222, 250, 222);
+  overflow: auto;
+  word-break: break-all;
 
   border-left: 1px solid grey;
   border-right: 1px solid grey;
   border-bottom: 1px solid grey;
   border-bottom-right-radius: 4px;
   border-bottom-left-radius: 4px;
+
   @media (max-width: 768px) {
     gap: 4px;
     padding: 0px 10px;

@@ -12,6 +12,7 @@ code {
   background-color: rgb(107, 159, 107);
   color: #f8f8f2;
   padding: 10px;
+  overflow: auto;
   border-radius: 5px;
   margin-bottom: 20px;
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
