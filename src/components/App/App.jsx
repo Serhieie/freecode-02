@@ -1,4 +1,4 @@
-import { aboutMe, freeCodeText } from "../../constants/about-me";
+import { aboutMe } from "../../constants/about-me";
 import { useState } from "react";
 import { Editor } from "../Editor/Editor";
 import { Previewer } from "../Previewer/Previewer";
